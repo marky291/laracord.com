@@ -69,16 +69,3 @@ The project includes an example environment file (`.env.example`) with sample se
 ```bash
 cp .env.example .env
 ```
-
-### 4. Configure Environment Variables
-
-Now, open the `.env` file to configure project-specific environment variables:
-
-```bash
-vi .env
-```
-
-Make any necessary adjustments, such as:
-- Database settings (SQLite, MySQL, PostgreSQL, etc.)
-- Application URL
-- Any API keys or other service credentials required
